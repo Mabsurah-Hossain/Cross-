@@ -1,0 +1,6 @@
+{
+  "name": "CROSS! - Retro Arcade Traffic Crossing Game",
+  "description": "An endless colorful cartoon traffic crossing arcade game. Dodge speeding cars, cross 4-lane roads, collect points, and unlock fun cartoon avatars!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
